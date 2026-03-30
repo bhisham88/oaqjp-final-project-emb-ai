@@ -1,0 +1,12 @@
+theia@theiadocker-bhishamguler:/home/project/final_project/oaqjp-final-project-emb-ai$ python3.11 -m unittest -v test_emotion_detection.py
+test_emotion_anger (test_emotion_detection.EmotionDetectionTest.test_emotion_anger) ... ok
+test_emotion_disgust (test_emotion_detection.EmotionDetectionTest.test_emotion_disgust) ... ok
+test_emotion_fear (test_emotion_detection.EmotionDetectionTest.test_emotion_fear) ... ok
+test_emotion_joy (test_emotion_detection.EmotionDetectionTest.test_emotion_joy) ... ok
+test_emotion_sadness (test_emotion_detection.EmotionDetectionTest.test_emotion_sadness) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.563s
+
+OK
+theia@theiadocker-bhishamguler:/home/project/final_project/oaqjp-final-project-emb-ai$ 
