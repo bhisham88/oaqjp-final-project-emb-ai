@@ -4,9 +4,10 @@ import json
 
 app = Flask(__name__)
 
-# USER_MESSAGE = "I love my life"
+USER_MESSAGE = "I love my life"
 # USER_MESSAGE = "I think I am having fun"
-USER_MESSAGE = "" # for error handling purpose
+# USER_MESSAGE = "I hate working long hours"
+# USER_MESSAGE = "" # for error handling purpose
 
 @app.route("/emotionDetector")
 def emotion_detector():
