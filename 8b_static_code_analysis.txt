@@ -1,0 +1,11 @@
+theia@theiadocker-bhishamguler:/home/project/final_project/oaqjp
+-final-project-emb-ai$ pylint server.py 
+************* Module oaqjp-final-project-emb-ai.server
+server.py:6:0: E0401: Unable to import 'flask' (import-error)
+server.py:8:0: E0401: Unable to import 'emotion_detection' (import-error)
+
+------------------------------------------------------------------
+Your code has been rated at 4.74/10 (previous run: 4.74/10, +0.00)
+
+theia@theiadocker-bhishamguler:/home/project/final_project/oaqjp
+-final-project-emb-ai$ 
